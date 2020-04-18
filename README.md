@@ -1,5 +1,8 @@
 # Awesome 3D/XR visualizations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+**Important**: The repository is hosted on [GitLab](https://gitlab.com/babiaxr/awesome-xr-3d-visualization), if you are on GitHub, note that this is a mirror from the GitLab repository, if you want to open an [**issue**](https://gitlab.com/babiaxr/awesome-xr-3d-visualizations/-/issues) or [**PR/MR**](https://gitlab.com/babiaxr/aframe-babia-components/-/merge_requests) please visit:
+- Repository: https://gitlab.com/babiaxr/awesome-xr-3d-visualization
+- BabiaXR webpage: https://babiaxr.gitlab.io
 
 ## Academic:
 - [Codecity](https://wettel.github.io/codecity.html) 
